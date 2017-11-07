@@ -3,7 +3,7 @@ A little documentation of the Hello World in Scala :D..
 
 ## Requirements
 
-Download Scala with the following link -->[Link](http://www.scala-lang.org/download/)
+Download Scala with the following link -->[Scala Download](http://www.scala-lang.org/download/)
 
 1) Move downloaded .tgz file in your project folder
 ```
